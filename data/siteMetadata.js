@@ -1,6 +1,7 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Evey personal blog',
   author: 'Evey Nguyen',
+  fullName: 'Nguyen Thi Ngoc Anh',
   headerTitle: 'PikaBlog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
@@ -8,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/pikachu.png',
+  image: '/static/images/avatar,jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',

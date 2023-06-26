@@ -1,6 +1,6 @@
 ---
 name: Evey Nguyen
-avatar: /static/images/pikachu.png
+avatar: /static/images/avatar.jpg
 occupation: Data Engineer
 company: Evey Blog
 email: ntngocanh19@gmail.com
