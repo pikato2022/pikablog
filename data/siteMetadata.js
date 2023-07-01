@@ -1,9 +1,9 @@
 const siteMetadata = {
-  title: 'Evey personal blog',
+  title: "Evey's personal blog",
   author: 'Evey Nguyen',
   fullName: 'Nguyen Thi Ngoc Anh',
   headerTitle: "Evey's blog",
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Welcome to my house :D',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
