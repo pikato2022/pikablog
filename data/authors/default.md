@@ -1,6 +1,6 @@
 ---
 name: Evey Nguyen
-avatar: /static/images/avatar.jpg
+avatar: /static/images/avatar.jpeg
 occupation: Data Engineer
 company: Evey Blog
 email: ntngocanh19@gmail.com
