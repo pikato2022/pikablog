@@ -6,17 +6,17 @@ const siteMetadata = {
   description: 'Welcome to my house :D',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'eveynguyen.com',
   siteRepo: 'https://github.com/pikato2022/pikablog',
   siteLogo: '/static/images/avatar.jpeg',
   image: '/static/images/avatar,jpeg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'tnanguyen.2021@mitb.smu.edu.sg',
+  github: 'https://github.com/pikato2022?tab=repositories',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/evey-anh-nguyen/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -31,7 +31,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
