@@ -3,7 +3,7 @@ title: 'Google File System: When It comes to big data processing'
 date: '2023-07-08'
 tags: ['GFS', 'Distributed System', 'Google']
 draft: false
-summary: This is a summary of Google File System paper. It gives you a detailed idea how Google scales/optimize their system to deal with Tbs of data. This paper is very old, but the key design's still fundamental for big data DFS (Distributed System) nowaday.
+summary: This is a summary of Google File System paper. It gives you a detailed idea how Google scales/optimize their system to deal with Pbs of data. This paper is very old, but the key design's still fundamental for big data DFS (Distributed System) nowaday.
 images: []
 layout: PostLayout
 canonicalUrl:
